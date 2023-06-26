@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ComposeStudyApplication</string>
+    <string name="title_activity_slider">SliderActivity</string>
+    <string name="title_activity_textfiled">TextfiledActivity</string>
 </resources>
